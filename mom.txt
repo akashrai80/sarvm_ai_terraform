@@ -1,0 +1,6 @@
+#terraform
+need to create a IAM role with system policy for restricting the access for pushing the code directly to the main branch.
+
+
+#Prom/Grafana
+

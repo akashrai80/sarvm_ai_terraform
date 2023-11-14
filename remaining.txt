@@ -1,0 +1,16 @@
+1. cloud front
+2. alb, nlb
+3. ec2
+4. roles
+5.
+
+
+
+
+itle- Cloud DevOps Engineer
+Work location- Gurgaon , mandatory work from office
+Role Description :
+Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats.
+
+Must have Skills: Kubernetes & Docker
+Good to Have Skills: Azure VMware Solution	 
